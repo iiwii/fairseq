@@ -204,7 +204,13 @@ The license applies to the pre-trained models as well.
 
 # Citation
 
-Please cite as:
+## Infer without context
+
+> `bash runs/translate-en2ru.sh inside-context ignore`
+>
+> `bash runs/translate-en2ru.sh outside-context ignore`
+
+## Citation
 
 ``` bibtex
 @inproceedings{ott2019fairseq,
